@@ -56,13 +56,13 @@ footer {
     background-color: orangered;
     color: white;
     display: flex;
-    flex-direction: column; /* Coloca os itens em coluna */
-    align-items: center;    /* Centraliza horizontalmente */
+    flex-direction: column;
+    align-items: center;
     text-align: center;
     padding: 10px;
     width: 100%;
     position: relative;
-    gap: 10px;              /* Espaço entre texto e imagens */
+    gap: 10px;
 }
 
 footer img {
@@ -80,7 +80,7 @@ footer a {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 10px; /* Espaço entre as imagens */
+    gap: 10px;
 }
 
 @media (max-width: 900px) {
